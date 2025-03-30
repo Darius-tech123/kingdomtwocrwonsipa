@@ -1,0 +1,45 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "se.raw-fury.kingdom-two-crown"
+  ],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
+  "apps": [
+    {
+      "name": "KingdomTwoCrowns",
+      "bundleIdentifier": "se.raw-fury.kingdom-two-crown",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/qQ1ObkH.png",
+      "tintColor": "#c48454",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://pdalife.com/kingdom-two-crowns-ios-a40229.html",
+          "size": 1363526287,
+          "version": "2.1.0",
+          "buildVersion": "",
+          "date": "2025-03-30T16:07:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
